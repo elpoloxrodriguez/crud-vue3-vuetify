@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">visitantes</string>
+    <string name="title_activity_main">visitantes</string>
+    <string name="package_name">ve.gob.inea.visitantes</string>
+    <string name="custom_url_scheme">ve.gob.inea.visitantes</string>
+</resources>
